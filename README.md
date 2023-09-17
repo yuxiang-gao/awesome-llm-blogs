@@ -1,4 +1,4 @@
-# Awesome Tech Blogs (and papers, curated lists, forum threads...)
+# Awesome LLM-related Blogs (and papers, curated lists, forum threads...)
 Sources about LLM that I'm actively following.
 
 ## 🏢 Compaies & organizations
