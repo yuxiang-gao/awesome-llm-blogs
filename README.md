@@ -16,6 +16,8 @@ Sources about LLM that I'm actively following.
 - [Breezedeus (CN)](https://www.breezedeus.com) - Open source author of [CnOCR](https://github.com/breezedeus/CnOCR).
 - [Jay Alammar](http://jalammar.github.io/) - @Cohere, author of [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/).
   - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [PETER TODOROV](https://peterprototypes.com/)
+  - [🤗 Calling Hugging Face models from Rust](https://peterprototypes.com/blog/huggingface-from-rust/)   
 
 
 ## 📖 Tutorials
