@@ -40,11 +40,11 @@ Sources about LLM that I'm actively following.
 ### Agents
 
 - [awesome-sdks-for-ai-agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents)
-- ![Star](https://img.shields.io/github/stars/dot-agent/dotagent.svg?style=social&label=Star)[dotagent](https://github.com/dot-agent/dotagent) 
+- [dotagent](https://github.com/dot-agent/dotagent) ![Star](https://img.shields.io/github/stars/dot-agent/dotagent.svg?style=social&label=Star)
 
 ### Prompt Eng
 
-- ![Star](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide.svg?style=social&label=Star)[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)![Star](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide.svg?style=social&label=Star)
 
 ### NeRF
 - [awesome-scene-representation](https://github.com/robo-alex/awesome-scene-representation)
