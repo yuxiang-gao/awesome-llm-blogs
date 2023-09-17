@@ -22,7 +22,7 @@ Sources about LLM that I'm actively following.
 
 ## 📖 Tutorials
 
-- [State of GPT (Karparthy)]https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
+- [State of GPT (Karparthy)](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 - [Let's build GPT (Karparthy)](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 ## 🌟 Topics
