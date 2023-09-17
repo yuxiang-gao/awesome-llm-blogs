@@ -18,6 +18,11 @@ Sources about LLM that I'm actively following.
   - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 
+## Tutorials
+
+- [State of GPT (Karparthy)]https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
+- [Let's build GPT (Karparthy)](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
 ## 🌟 Topics
 
 ### Multimodal
@@ -35,7 +40,11 @@ Sources about LLM that I'm actively following.
 ### Agents
 
 - [awesome-sdks-for-ai-agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents)
-- [dotagent](https://github.com/dot-agent/dotagent) ![Star](https://img.shields.io/github/stars/dot-agent/dotagent.svg?style=social&label=Star) 
+- ![Star](https://img.shields.io/github/stars/dot-agent/dotagent.svg?style=social&label=Star)[dotagent](https://github.com/dot-agent/dotagent) 
+
+### Prompt Eng
+
+- ![Star](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide.svg?style=social&label=Star)[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ### NeRF
 - [awesome-scene-representation](https://github.com/robo-alex/awesome-scene-representation)
